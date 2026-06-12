@@ -1,0 +1,13 @@
+{
+  "name": "连连看",
+  "short_name": "连连看",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2d5a3b",
+  "theme_color": "#2d5a3b",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
